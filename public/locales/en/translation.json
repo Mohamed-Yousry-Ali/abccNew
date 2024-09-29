@@ -1,0 +1,117 @@
+{
+    "Home": "Home",
+    "About": "About Us",
+
+    "Construction": "Construction",
+
+    "Contractors":"Contractors",
+    "Contractors-info":"Advanced Business General Contracting Company includes supervising and managing construction projects from start to finish, coordinating all aspects of the construction process, ensuring compliance with local building codes and regulations, and managing the construction schedule. Advanced Business Company undertakes various tasks such as obtaining permits, purchasing materials, ensuring quality standards are met throughout the project, in addition to acting as problem solvers, addressing any issues that arise and making adjustments as necessary to keep the project on track. Our expertise ensures that construction projects are completed efficiently, safely and according to the client’s specifications.",
+    "Contractors-short":"Advanced Business General Contracting Company includes supervising and managing construction projects",
+
+    "finishes":"Interior And Exterior Finishes",
+    "finishes-nfo":"Advanced Business Company provides exterior finishes and excels in giving the final layer applied to the exterior surfaces of the building aesthetic appeal and protection against environmental elements. It works with materials that enhance the attractiveness of the building while protecting it from weather conditions such as rain, wind and ultraviolet rays. The company performs properly applied exterior finishes in insulation, moisture control and long-term durability, which contributes to the overall energy efficiency and life of the structure. Advanced Business Company also performs interior finishes and uses materials and treatments applied to the interior surfaces of the building to create a functional and visually appealing space. The company plays a crucial role in defining the atmosphere and functions of the space, which contributes to the comfort, style and usability of the interior designs. It also affects the acoustic performance, ease of maintenance and the overall aesthetic cohesion within the building.",
+    "finishes-short":"The importance of details in interior and exterior finishes",
+
+    "Sports-equipment":"Sports Equipment",
+    "Sports-equipment-info":"If you are looking for a company to equip sports fields and halls, you are in the right place at Advanced Business Company. Equipping fields is considered one of the crucial processes to ensure the quality and safety of sports fields. This process requires high expertise and efficiency to obtain satisfactory results. Our company provides field equipment services in Riyadh with the highest level of quality and professionalism. We understand the importance of providing a safe and comfortable environment for athletes and players, so we work hard to meet the needs of our customers. Our services include equipping various sports fields such as football fields, tennis, basketball, and others. We use the latest technologies and equipment to ensure that the equipment process is implemented perfectly according to international standards.",
+    "Sports-equipment-short":"Equipping playgrounds and sports halls with floors",
+
+    "Building-maintenance":"Building Maintenance",
+    "maintenance":"Maintenance",
+    "maintenance-info":"Maintenance of buildings, offices, homes, restaurants and cafes",
+    
+
+    "Logistics": "Logistics",
+    "theLogistics": "Logistics",
+
+    "clearance" :"Customs Clearance in import and export",
+    "clearance-com":"Customs Clearance",
+    "clearance-com-info":"Customs clearance plays a fundamental role in the logistics industry and is one of the reasons for our progress, through which our clients obtain the fastest way to clear their shipments, whether for export or import, through our systematic laws, unless this violates customs rules and regulations. Our customs clearance office is an expert in the local specifications industry, conditions and regulations. This knowledge on the ground allows our office to deal with all administrative tasks for our clients quickly and without complications. We have a comprehensive list of services that includes preparing all necessary documents and submitting them to customs, along with all other supporting services.",
+    "clearance-com-short":"Customs clearance plays a fundamental role in the logistics industry",
+
+    "Transportation":"Transportation and shipping",
+    "Transportation-info":"Land, air and sea transportation and shipping services",
+
+    "Road-Transport":"Road Transport",
+    "Road-Transport-info":"We realize the value of time, so we provide special transportation for customers and ready-to-implement solutions for loading a part or a whole truck. The availability of the appropriate equipment in the right place and time is what always defines our distinction. We provide this service in the shortest possible time with a great deal of professionalism.",
+    "Road-Transport-short":"We Realize The Value Of Time, So We Provide Special Transportation For Customers And Ready-to-implement",
+
+    "Sea-Freight":"Sea Freight",
+    "Sea-Freight-info" : "Maritime transport is a vital part of the global economy. We provide the right system for all shipments according to their nature, size, etc. by arranging the best suitable means of transport and the appropriate shipping line for each shipment. Our human resources have been carefully selected to meet all the requests of our valued customers in a timely manner. Our services do not end once the shipment arrives at the port of arrival. In addition, we provide all the necessary services associated with it, from arranging standard documents to complex banking arrangements and insurance coverage for marine shipping if requested. The online tracking system and tracking service make it easy for us to keep track of your shipments while sailing. We provide our valued customers with flexible service options for marine shipping. Our services include full container shipping services and parcel shipping services.",
+    "Sea-Freight-short" :"Maritime Transport Is A Vital Part Of The Global Economy. We Provide The Right System For All Shipments",
+
+    "Air-Freight-short":"The Accuracy Of The Arrival Times Of The Goods To The Work Site Of Our Clients Or Our Own, And What Our Air Freight Department",
+    "Air-Freight-info":"The accuracy of the arrival times of the goods to the work site of our clients or our own, and what our air freight department aims to achieve, our air freight services allow the coordination of our clients’ goods in a more flexible and efficient manner. All you have to do is tell us the country of origin and the final destination, and we will find many ways and choose the most effective and least expensive ways. In addition, our communication service is very advanced and helps us respond quickly to our clients’ requirements and thus eliminate routine delays.",
+    "Air-Freight":"Air Freight",
+
+    "Logistics-Services":"Logistics Services",
+    "Logistics-Services-info":"The commercial process requires building a relationship between the importer and shipping agents and shipping lines as well as reliable and professional customs clearance companies and offices to speed up the arrival of shipments without obstacles and reduce costs, especially since some goods require special handling in shipping and some require obtaining an import license before shipping to the Kingdom and issuing a clearance upon import, such as chemical and security materials, communications devices, medical and pharmaceutical devices, food materials, and others, some of which require ISO conformity certificates. Advanced Business Company provides the following services: Issuing licenses, clearances, and registration on behalf of clients from the competent authorities for each item. Advanced Business Company is the authorized agent of TFW International, a global company specialized in shipping and logistics. It has established a relationship with other major shipping companies and with distinguished customs modernization companies and offices, which enables it to advance related business on behalf of importers from the source to the client's warehouses according to solutions that contribute to reducing costs and speeding up shipment origins. Qualifying products before importing in one form Including the following stages: Technical inspection of the product, preparation of a comprehensive technical file for the product, registration of the product with the competent authorities to obtain a certificate of conformity, determination of the correct customs item, determination of clearance requirements and customs restrictions.",
+    "Logistics-Services-short":"We Make a relationship between the importer and the shipping agents.",
+
+    "Customs-Business":"Customs Business",
+    "Customs-Business-info":"Our experience spanning more than 30 years qualifies us to provide specialized studies and consulting services in the following customs works: Import and export Temporary import and export or re-export Transit and domestic transit Import and export by mail and express carrier Deposit and storage in deposit areas, private warehouses and duty-free markets Import and export of cars, trucks and equipment Seized and abandoned goods Customs and judicial violations and pleading on behalf of the client before customs and specialized committees Recovering amounts linked to insurance Differences in customs duties and ground returns Customs exemptions subject to international agreements or valuable industrial exemptions for customs purposes Subsequent auditing of customs data and documents Issuing licenses and certificates Issuing clearances for restricted items Issuing a prior ruling for the customs item Correct customs items for imported or exported items and a statement of their restrictions and procedures",
+  "Customs-Business-short":"Our experience spanning more than 30 years qualifies us to provide specialized studies",
+    "company":"Company",
+  "services":"Services",
+  "construct":"Construction",
+    "Contact":"Contact Us",
+    "Vision":"Vision 2030",
+    "aboutHomePageNabza": "About",
+    "aboutHomePageKnoladge": "US",
+    "OurFound":"Our Services",
+    "OurFounfInfo":"Advanced Business Company provides a group of consulting services and specialized studies in real estate and logistics services related to import and export operations and commercial and service activities for government agencies, institutions, companies, national and investment factories and private laboratories.",
+    "ourVision":"Our Vision",
+    "ourVisionInfo":"To be the first choice in providing studies and consulting services in both the real estate and logistics fields, developing appropriate solutions for import and export operations according to instructions and procedures, revealing legal business paths, and providing services with transparency and at costs consistent with the type and size of the work.",
+    "gouls":"Our Gouls",
+    "goulsInfo":"Excellence in construction works, developing the unique experience that we have, and providing consulting services in both the real estate and logistics fields to government agencies, institutions, companies, national and investment factories, and private laboratories in the commercial and service fields.",
+    "msgCompany":"Our Message",
+    "msgCompanyInfo":"Advanced Business Company for Real Estate Services and Customs Clearance has its special position in the Saudi market since 2010, relying primarily on a group of young expertise that has the ability to absorb market requirements and face all challenges with the greatest degree of confidence and flexibility and achieve the desired goals. Advanced Business Company for International Shipping Services, Customs Clearance and Real Estate is a registered Saudi company headquartered in Riyadh and has branches in the most expensive cities of the Kingdom with a global network of agents in more than 60 countries around the world. We have clients spread across all fields such as food, communications, government and private agencies, consumer and durable goods, home and office furniture, clothing and many others, to name a few.",
+   "more":"More",
+
+   "vibrant-community":"Vibrant Community",
+   "vibrant-community-info":"Saudi Vision 2030 is becoming a reality in a vibrant society. A cohesive and happy society is the foundation of economic prosperity for a society whose citizens are responsible, and whose roots are firmly based on the tolerant values ​​of Islam and pride in the homeland, with pride in Saudi heritage and culture, in an environment that provides world-class entertainment options, a sustainable lifestyle, and effective health and social care systems. The Kingdom is distinguished by its rich culture, national unity, and Islamic faith. The Kingdom has also prided itself throughout the ages in hosting pilgrims and demonstrating its values ​​to the world.",
+   "vibrant-community-short":"Saudi Vision 2030 is becoming a reality in a vibrant society. A cohesive and happy society is the most important foundation for economic prosperity for a society with responsible citizens.",
+
+   "thriving-economy":"Thriving Economy",
+   "thriving-economy-info":"The vision has enabled the nation’s youth to participate effectively in all sectors, and has drawn a promising future that they can create with their own hands, after giving priority to the creative and talented, supporting the culture of innovation and perseverance, providing distinct opportunities for growth, and working to generate quality jobs, while attracting the best global expertise. The Kingdom has provided an attractive competitive environment open to business, to build a leading global economy that enhances entrepreneurship, restructures economic cities, contributes to the establishment of special zones, and unleashes the potential of the energy market to make it more competitive. The Kingdom is also investing for a bright future, by unleashing promising new sectors, and allocating more government services to diversify the economy and ensure its sustainability.",
+  "thriving-economy-short":"The vision enabled the nation’s youth to participate effectively in all sectors, and drew a promising future that they could create with their own hands, after giving priority to the creative and talented.",
+  
+   "Ambitious-homeland":"Ambitious Homeland",
+   "Ambitious-homeland-info":"The government assumes great responsibilities that require flexibility in dealing with modern variables and new challenges, and is committed to transparency and accountability, and works to manage its financial resources efficiently and effectively, with speed in achievement and performance monitoring. Whatever sector you work in, you will have an important role to play in contributing to building your country. If you are a business owner or work in a non-profit organization or in any other sector, you are called upon to contribute to the development of this country, and the non-profit sector will remain an important part of our society, playing a crucial role in meeting societal needs and advancing society.",
+   "Ambitious-homeland-short":"The government assumes great responsibilities that require flexibility in dealing with modern variables and new challenges, and is committed to transparency and accountability.",
+
+
+   "feature" :"Our Features",
+   "workquick":"Delivering work on time",
+   "workquickinfo":"Delivering work on time is one of the features of Advanced Business Company that distinguishes it in all its fields.",
+
+   "Consultation" :"Consultation",
+   "Consultationinfo":"Advanced Business Company is considered a pioneer in all its fields due to its previous experience. Therefore, the company provides all successful consultations on an ongoing basis.",
+   
+  "OurStaff" :"Our Staff",
+  "OurStaffinfo":"The staff at Advanced Business Company is distinguished by its dedication to work and the necessary expertise that distinguishes the company in all its fields.",
+
+   "modernway":"Working in a Modern Way",
+   "modernwayinfo" : "Advanced Business Company works with all methods and approaches that keep pace with the times and the market of life.",
+   
+   "Greatworkhistory": "Great Work History",
+   "Greatworkhistoryinfo":"Advanced Business Company is distinguished by its great and unique track record, which makes it one of the distinguished companies with great experience in all its fields."
+
+   ,"Continuouscustomersupport":"Continuous customer Support"
+   ,"Continuouscustomersupportinfo" :"Advanced Business Company is distinguished by continuous technical support for all its clients around the clock.",
+   
+   "copyright":"All rights reserved to Advanced Business Company © 2024",
+   
+   "visionsrone":"Vision 2030 understands the importance of building a strong, happy, and fulfilling society as the foundation for economic prosperity, which is why we focus on creating strong roots that embrace modern Islam, national pride, Saudi heritage, and culture, while also providing world-class entertainment options, sustainable living, and efficient health and social care systems. Saudi Arabia is unique in its cultural abundance, inherently Islamic faith and national unity, and we as Saudis dedicate ourselves to fulfilling our duty towards pilgrims and promoting our rich national identity. To achieve true happiness and fulfillment for all citizens and residents, we are prioritizing physical, psychological, and social wellbeing, which is why at the heart of our vision is creating a society where everyone enjoys a high quality of life, a healthy lifestyle, and an attractive living environment. To build a strong and productive society with strong foundations, we commit to promoting and revitalizing social development by strengthening our families, providing character-building education, and establishing empowering health and social care systems. With these efforts, Vision 2030 is creating a vibrant society that serves as the foundation for a thriving economy and an ambitious nation.",
+   "visionsrtwo":"We are creating an environment that supports economic growth and job creation for all Saudis by leveraging our unique location and potential, attracting top talent, and increasing global investment.The future of our nation will be determined by our young people, and we are prioritizing them, their skills and their empowerment. We are building a culture that values determination and provides rewarding opportunities for growth while also creating diverse job opportunities for Saudis, while attracting the best global talent. The Kingdom is open for business. To become a leading global economy, we are improving our business environment, restructuring our economic cities, creating special zones, and deregulating the energy market to make it more competitive. We are also investing for the future by unleashing promising new sectors and privatizing government services to diversify our economy and ensure its sustainability. Located at the crossroads of three continents, we are leveraging our unique position to become a major hub for international trade and forming new partnerships to grow our economy and supporting our domestic companies in increasing exports. With these efforts, Vision 2030 is creating a thriving economy that serves as the foundation for a vibrant society and an ambitious nation.",
+   "visionsrthree":"We are building a country that is effectively governed, transparent, and accountable, encouraging all of society – citizens, businesses, and non-profit organizations – to take the lead in identifying and pursuing opportunities to advance our collective future. This empowers everyone to play a more active role in shaping the future of our nation. Our government has many responsibilities and must adapt to shifting tides and new challenges. That's why we are committed to being transparent and accountable, managing its finances efficiently and effectively, being agile, and tracking our performance. No matter what sector we work in, we all have a role to play in building a better country. As a business owner, non-profit leader, or concerned citizen, everyone contributes to the development of Saudi Arabia. The non-profit sector is an important part of our society and plays a crucial role in addressing the needs of our communities and promoting social progress. By responsibly enabling these efforts, we can work together to achieve our goals and fulfill our responsibilities to our country, society, families, and ourselves. With these efforts, Vision 2030 is creating an ambitious nation that serves as the foundation for a vibrant society and a thriving economy.",
+   
+"CompanyName":"Advanced Business Company",
+"GotoConstruction" :"Go to Construction",
+"GotoLogistics":"Go to Logistics",
+
+"commerce":"Commercial",
+"commerce-section":"Go To Commercial",
+
+   "direction":"ltr"
+}

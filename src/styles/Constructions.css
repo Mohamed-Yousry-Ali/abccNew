@@ -1,0 +1,28 @@
+.linne {
+    position: absolute;
+    bottom: 0; /* Position at the bottom of the container */
+    left: 0; /* Align to the left edge */
+    right: 0; /* Extend to the right edge */
+    display: flex;
+    justify-content: center; /* Center the line horizontally */
+  }
+  
+  .linne:before {
+    background-image: url("../../public/images/download.png");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: -8px; /* Adjust as needed for vertical alignment */
+    width: 20px;
+    height: 16px;
+  }
+  
+  .linne:after {
+    background-color: #7469c6;
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: calc(100% - 18px); /* Adjust height as needed */
+    top: 0; /* Align at the top of the .linne container */
+  }
+  

@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+*.jpg
+*.jpeg
+*.png
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.mp4
+The Power and Beauty of Construction Sites_ A Cinematic Reel.mp4
+logisticsv.mp4
+LogisticsAbcc3.mp4
+LogisticsAbcc3_fixed.mp4
+LogisticsAbcc2.mp4
+logisticsAbcc.mp4
+ConstructAbcc3.mp4
+ConstructAbcc2.mp4
+ConstructAbcc.mp4

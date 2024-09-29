@@ -1,0 +1,43 @@
+.servises{
+    padding:80px 20px 40px;
+}
+.servises h2{
+  margin: 0 0 50px;
+  font-weight: bold;
+}
+.servises .items{
+  float: left;
+  width: 33.33333%;
+      margin-bottom: 20px;
+}
+.servises .items i{
+  color: #1abc9c;
+  float: left;
+  width: 20%;
+  margin-top: 10px;
+  margin-right: 1%;
+}
+.servises .items .info{
+  float: left;
+  width: 79%;
+}
+.servises .items .info h3{
+  margin-bottom: 10px;
+}
+.servises .items .info p{
+  line-height: 1.7;
+  margin-top: 0;
+}
+
+
+.special-heading{
+    position: relative;
+}
+.special-heading:after{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 40px;
+    border-bottom: 2px solid #333;}
